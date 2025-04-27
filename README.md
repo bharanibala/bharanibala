@@ -8,14 +8,12 @@
 
 # 💻 Research:
 
-Google Scholar
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)]()
 [![ORCiD](https://img.shields.io/badge/ORCiD-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9219-7821)
 [![Zotero](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=white)]()
 [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arXiv)]()
 [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-1857B6?logo=semanticscholar)]()
-[![Research Gate](https://img.shields.io/badge/Research%20Gate-00CCBB?logo=researchgate&logoColor=black)]()
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bharani.bala)
+[![Research Gate](https://img.shields.io/badge/Research%20Gate-00CCBB?logo=researchgate&logoColor=white)]()
 
 # 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
