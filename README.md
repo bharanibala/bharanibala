@@ -43,7 +43,11 @@
 | **Web Development** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
 | **Miscellaneous** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
-## 💰 You can help me by Donating [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bharaneeshwarb) 
+## 💰 You can help me by Donating or Fund my education
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bharaneeshwarb) 
+
+[![KSU]](https://commerce.cashnet.com/cashneti/static/epayment/KSUACH/login?isGuestUser=yes) and reach out for my details!
+
 
 <!-- ## PS: If you reach the end and if you still interested and want to know more about me?
 I used Area Under Margin (AUM) and Dataset Cartography for cleanaing my datasets. I'm also exploring applications in security and biology-related AI. I’m also open to working with other PhD students on vision-related benchmarking and reproducibility studies. -->
@@ -58,7 +62,7 @@ I used Area Under Margin (AUM) and Dataset Cartography for cleanaing my datasets
 Use the below for generating the logo with desired background color
 
 Link for the API documentation: https://shields.io/badges/static-badge
-Link for the logo info: https://simpleicons.org/?q=call
+Link for the logo info: https://simpleicons.org
 
 -->
 
