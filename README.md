@@ -8,7 +8,7 @@
 
 # 👨‍💻 Research:
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)]()
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=My6QNjEAAAAJ&view_op=list_works&authuser=1&gmla=AIfU4H4sklDozBfQNIArhrfl22P9vHGzADf_GBlcFU20u_L9vjd-0rk5vwT31NLQHbo1vM7Rq8v3tWNs7kJEi8ND&inst=6485013114777526331)
 [![ORCiD](https://img.shields.io/badge/ORCiD-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9219-7821)
 [![Zotero](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=white)]()
 [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arXiv)]()
