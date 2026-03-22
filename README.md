@@ -1,31 +1,69 @@
-# 💫 About Me:
-🔭 I’m currently working on semi-supervised learning techniques for image classification and object detection, particularly focusing on label noise detection using Area Under Margin (AUM) and Dataset Cartography. I'm also exploring applications in security and biology-related AI.<br>👯 I’m looking to collaborate on interdisciplinary research combining machine learning with domains like cybersecurity, theoretical computer science, and biology. I’m also open to working with other PhD students on vision-related benchmarking and reproducibility studies.<br>🤝 I’m looking for help with high-performance training infrastructure, optimizing inference time in object detectors, and preparing competitive submissions to top-tier ML conferences.<br>🌱 I’m currently learning about leadership, writing, diffusion models, noise-robust learning strategies, and advanced object detection architectures like YOLOv11 and Faster-RCNN.<br>💬 Ask me about semi-supervised learning, dataset curation, AUM, training dynamics analysis, or the challenges of balancing a diverse set of research interests.<br>⚡ Fun fact: I’m equally passionate about cooking, acting, music, and martial arts as I am about machine learning — I believe creativity fuels innovation in research!
+# Bharaneeshwar Balasubramanian
 
+I like to train neural nets to see and understand images.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bharani.bala) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bharani_bala/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharaneeshwarb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bharanibala77) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Bharani-Bala-4) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/12804790/bharani-bala) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/bharanibala_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@bharanibala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharanibala77@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharanibala77@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-000000?logo=X&logoColor=white)](https://x.com/bharanibala_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharaneeshwarb/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/bharanibala)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=My6QNjEAAAAJ&view_op=list_works&authuser=1&gmla=AIfU4H4sklDozBfQNIArhrfl22P9vHGzADf_GBlcFU20u_L9vjd-0rk5vwT31NLQHbo1vM7Rq8v3tWNs7kJEi8ND&inst=6485013114777526331)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@bharanibala77)
 
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bharanibala&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bharanibala&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharanibala&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+* * *
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bharanibala&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## Bio
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a PhD researcher working on semi-supervised approaches for image classification and object detection, with a particular focus on label noise detection. I use tools like Area Under Margin (AUM) and Dataset Cartography to clean and understand training data. I'm also exploring applications of AI in security and biology.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bharanibala&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Previously, I've worked across the full stack — from web development with Angular and React, to cloud infrastructure on Azure, to deep learning research with PyTorch and TensorFlow. I enjoy bridging theory and practice, combining principled ML research with real-world systems.
 
----
-[![](https://visitcount.itsvg.in/api?id=bharanibala&icon=1&color=1)](https://visitcount.itsvg.in)
+Outside of research, I'm equally passionate about cooking, singing, dancing, acting, and martial arts. I believe creativity fuels innovation.
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bharaneeshwarb) 
+* * *
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Research Interests
+
+- **Semi-supervised learning** — training with limited labels, leveraging unlabeled data effectively
+- **Label noise detection** — identifying and handling noisy annotations in training datasets
+- **Object detection** — working with architectures like YOLOv11 and Faster R-CNN
+- **Training dynamics analysis** — understanding how models learn through metrics like AUM
+- **Diffusion models** — exploring generative approaches for vision tasks
+
+* * *
+
+## Featured Writing
+
+- [Medium](https://medium.com/@bharanibala77) — blog posts on ML, research notes, and tutorials
+
+* * *
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=My6QNjEAAAAJ&view_op=list_works&authuser=1&gmla=AIfU4H4sklDozBfQNIArhrfl22P9vHGzADf_GBlcFU20u_L9vjd-0rk5vwT31NLQHbo1vM7Rq8v3tWNs7kJEi8ND&inst=6485013114777526331) — publications and citations
+- [ORCiD](https://orcid.org/0000-0001-9219-7821) — researcher ID
+- [Stack Overflow](https://stackoverflow.com/users/12804790/bharani-bala) — Q&A contributions
+- [YouTube](https://youtube.com/@bharanibala) — video content
+
+* * *
+
+## Tools I Use
+
+**Languages:** Python, C/C++, Java, TypeScript, JavaScript, OCaml, LaTeX, Bash
+
+**ML/DL:** PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face, OpenCV, spaCy, NLTK
+
+**Data:** NumPy, Pandas, Matplotlib, SciPy
+
+**Infrastructure:** Docker, Git, Azure, CUDA, Firebase, Heroku
+
+**Databases:** MySQL, MongoDB, Microsoft SQL Server
+
+**Web:** React, Angular, Node.js
+
+* * *
+
+## Connect
+
+I'm open to collaborating on interdisciplinary research combining machine learning with cybersecurity, theoretical computer science, and biology. I'm also interested in vision-related benchmarking and reproducibility studies with other PhD students.
+
+Feel free to reach out: [bharanibala77@gmail.com](mailto:bharanibala77@gmail.com)
